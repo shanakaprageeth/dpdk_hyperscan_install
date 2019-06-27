@@ -41,7 +41,9 @@ Issues might arise for following dependacies:
 
 
 ## Acknowledgement 
-[NS3](https://www.nsnam.org/)
+[Hyperscan](https://01.org/hyperscan)
+[DPDK](https://www.dpdk.org/)
+[Intel ICC](https://software.intel.com/en-us/c-compilers)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
